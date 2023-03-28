@@ -1,0 +1,4 @@
+"D:\ClionC++\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\personalInfo\大三\大三下\编译原理\HNUCompilerExp\exp1C++
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/personalInfo/澶т笁/澶т笁涓�/缂栬瘧鍘熺悊/HNUCompilerExp/exp1C++/cmake-build-debug
