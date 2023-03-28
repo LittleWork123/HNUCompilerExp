@@ -1,3 +1,0 @@
-"D:\ClionC++\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\exp1C__.dir/objects.a
-D:\mingw64\mingw64\bin\ar.exe cr CMakeFiles\exp1C__.dir/objects.a @CMakeFiles\exp1C__.dir\objects1.rsp
-D:\mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\exp1C__.dir/objects.a -Wl,--no-whole-archive -o exp1C__.exe -Wl,--out-implib,libexp1C__.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\exp1C__.dir\linklibs.rsp
